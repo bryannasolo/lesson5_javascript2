@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 24th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Bryanna Solorzano)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project taught us about code moduralization and all about statements, loops and functions)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (One lesson learned in this assignment had to do with IF & Else statements. )
+2. (The second lesson learned was about functions and how not to repeat ourselves in code.)
+3. (The lasr lesson was all about array and loops and how we can make coding easier by using them.)
